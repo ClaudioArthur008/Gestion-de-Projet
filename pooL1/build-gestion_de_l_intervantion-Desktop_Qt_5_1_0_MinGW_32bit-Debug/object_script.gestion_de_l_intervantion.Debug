@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\projet.o
+./debug\intervenants.o
+./debug\facture.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_projet.o
+./debug\moc_intervenants.o
+./debug\moc_facture.o
+);

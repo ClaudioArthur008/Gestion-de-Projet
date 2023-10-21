@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\projet.o
+./release\intervenants.o
+./release\facture.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_projet.o
+./release\moc_intervenants.o
+./release\moc_facture.o
+);

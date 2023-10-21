@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icone_for_mainToolBar">
+        <file>icone/calendar.ico</file>
+        <file>icone/facture.ico</file>
+        <file>icone/intervenant.ico</file>
+        <file>icone/project.ico</file>
+        <file>icone/task.ico</file>
+        <file>icone/home.ico</file>
+        <file>icone/add.ico</file>
+        <file>icone/about.ico</file>
+        <file>icone/help.ico</file>
+        <file>icone/actualise.ico</file>
+        <file>icone/delete.ico</file>
+        <file>icone/update.ico</file>
+        <file>icone/back_to.ico</file>
+        <file>icone/search.ico</file>
+        <file>icone/list.ico</file>
+        <file>icone/redo.ico</file>
+        <file>icone/cut.ico</file>
+        <file>icone/read.ico</file>
+        <file>icone/undo.ico</file>
+        <file>icone/paste.ico</file>
+    </qresource>
+</RCC>
